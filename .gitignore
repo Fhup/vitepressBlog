@@ -1,0 +1,32 @@
+# dependencies
+**/node_modules
+/.vscode
+
+/docs/.vitepress/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+package-lock.json
+*bak
+.vscode
+
+docs/.vitepress/dist
+
+# visual studio code
+.history
+*.log
+functions/*
+.temp/**
+
+# screenshot
+screenshot
+.firebase
+.eslintcache
+
+build
